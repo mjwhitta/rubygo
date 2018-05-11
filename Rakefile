@@ -5,7 +5,7 @@ task :default => :gem
 desc "Clean up"
 task :clean do
     system("rm -f *.gem Gemfile.lock")
-    system("chmod -R go-rwx bin ext")
+    system("chmod -R go-rwx bin ext lib")
 end
 
 desc "Show colors from hilighter"
@@ -15,7 +15,7 @@ end
 
 desc "Build gem"
 task :gem do
-    system("chmod -R u=rwX,go=rX bin ext")
+    system("chmod -R u=rwX,go=rX bin ext lib")
     system("gem build -V *.gemspec")
 end
 
