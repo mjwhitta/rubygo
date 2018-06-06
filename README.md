@@ -22,7 +22,6 @@ $ bundle install && rake install
 ## Links
 
 - [Source](https://gitlab.com/mjwhitta/rubygo)
-- [Mirror](https://github.com/mjwhitta/rubygo)
 - [RubyGems](https://rubygems.org/gems/rubygo)
 
 ## TODO
