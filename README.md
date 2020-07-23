@@ -1,5 +1,7 @@
 # RubyGo
 
+<a href="https://www.buymeacoffee.com/mjwhitta">🍪 Buy me a cookie</a>
+
 Simple proof-of-concept code for using Golang native extension with
 ruby gems. Currently only works for GNU/Linux.
 
