@@ -16,14 +16,14 @@ $ gem install rubygo
 Or install from source:
 
 ```
-$ git clone https://gitlab.com/mjwhitta/rubygo.git
+$ git clone https://github.com/mjwhitta/rubygo.git
 $ cd rubygo
 $ bundle install && rake install
 ```
 
 ## Links
 
-- [Source](https://gitlab.com/mjwhitta/rubygo)
+- [Source](https://github.com/mjwhitta/rubygo)
 - [RubyGems](https://rubygems.org/gems/rubygo)
 
 ## TODO

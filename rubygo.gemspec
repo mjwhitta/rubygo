@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
     end
     s.extensions = Dir["ext/**/*.rb"]
     s.files = Dir["ext/**/*.go"] + Dir["lib/**/*.rb"]
-    s.homepage = "https://gitlab.com/mjwhitta/rubygo"
+    s.homepage = "https://github.com/mjwhitta/rubygo"
     s.license = "GPL-3.0"
     s.metadata = {"source_code_uri" => s.homepage}
     s.name = "rubygo"
